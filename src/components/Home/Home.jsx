@@ -22,7 +22,9 @@ const Home = ()=>{
     <button className="border rounded-2xl bg-blue-600 text-white shadow-sm p-1 px-2 m-2">
         Projetos
     </button>
-    <button className="border-2 border-blue-600 rounded-2xl text-blue shadow-sm p-1 px-2 m-2"></button>
+    <button className="border-2 border-blue-600 rounded-2xl text-blue shadow-sm p-1 px-2 m-2">
+        Github
+    </button>
 </div>
 
         </div>
